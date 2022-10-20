@@ -1,0 +1,77 @@
+/*  CAPAS CONTENEDORAS  */
+
+ 
+
+#izquierda  {
+
+  width: 170px;
+
+  float: left;
+
+  }
+
+ 
+
+.derecha {
+
+  width: 750px;
+
+  float: left;
+
+  }
+
+ 
+
+/*  ELEMENTOS DEL MENU LATERAL  */
+
+ 
+
+#menu {
+
+  padding:0;
+
+  margin:0 auto;
+
+  list-style-type:none;
+
+  width:160px;
+
+  height:312px;
+
+  }
+
+#menu li a {
+
+  height:30px;
+
+  width:160px;
+
+  float:left;
+
+  border-bottom:2px solid #fff;
+
+  overflow: hidden;
+
+  }
+
+#menu li a img {
+
+  border:0;
+
+  }
+
+#menu li a:hover {
+
+  height:120px;
+
+  }
+
+ 
+
+/*  ELEMENTOS DEL MENU SUPERIOR */
+
+ 
+
+#menu2 {
+
+  padding
